@@ -6,6 +6,9 @@ import java.util.Collections;
 import java.util.List;
 import java.util.concurrent.CountDownLatch;
 
+/**
+ * @author huangxinhe
+ */
 public class HighLock extends AbstractLock{
  
     private static final String PARENT_NODE_PATH="/high_lock";

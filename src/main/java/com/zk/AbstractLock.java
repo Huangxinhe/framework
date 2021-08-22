@@ -5,7 +5,7 @@ import org.I0Itec.zkclient.ZkClient;
 public abstract class AbstractLock {
 
     //zookeeper服务器地址
-    public static final String ZK_SERVER_ADDR = "192.168.200.131:2181";
+    public static final String ZK_SERVER_ADDR = "192.168.1.102:2181";
     //zookeeper超时时间
     public static final int CONNECTION_TIME_OUT = 30000;
     public static final int SESSION_TIME_OUT = 30000;
