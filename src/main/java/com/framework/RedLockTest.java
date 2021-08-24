@@ -1,6 +1,6 @@
 package com.framework;
 
-import com.redis.RedissonRedLockConfig;
+import com.framework.redis.RedissonRedLockConfig;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.redisson.RedissonRedLock;

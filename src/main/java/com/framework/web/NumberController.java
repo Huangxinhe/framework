@@ -1,6 +1,6 @@
 package com.framework.web;
 
-import com.redis.JedisLock;
+import com.framework.redis.JedisLock;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RestController;
 import redis.clients.jedis.Jedis;

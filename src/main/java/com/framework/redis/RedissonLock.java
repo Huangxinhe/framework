@@ -1,4 +1,4 @@
-package com.redis;
+package com.framework.redis;
 
 import org.redisson.api.RLock;
 import org.redisson.api.RedissonClient;

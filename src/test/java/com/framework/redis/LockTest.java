@@ -1,4 +1,4 @@
-package com.redis;
+package com.framework.redis;
 
 
 import java.util.UUID;
